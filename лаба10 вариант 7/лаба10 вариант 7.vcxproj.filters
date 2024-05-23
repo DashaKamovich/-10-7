@@ -21,9 +21,15 @@
     <ClCompile Include="BankOperation.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="BankOperationsIO.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BankOperation.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="BankOperationsIO.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

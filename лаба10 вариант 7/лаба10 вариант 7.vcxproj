@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BankOperation.cpp" />
+    <ClCompile Include="BankOperationsIO.cpp" />
     <ClCompile Include="лаба10 вариант 7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BankOperation.h" />
+    <ClInclude Include="BankOperationsIO.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
