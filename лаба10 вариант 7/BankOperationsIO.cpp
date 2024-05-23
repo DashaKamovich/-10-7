@@ -1,7 +1,7 @@
 #include "BankOperationsIO.h"
 #include <fstream>
 #include <sstream>
-
+#include<iostream>
 std::vector<BankOperation> loadBankOperationsFromFile(const std::string& filename) {
     std::vector<BankOperation> operations;
     std::ifstream file(filename);
